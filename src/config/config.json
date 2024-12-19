@@ -1,0 +1,24 @@
+{
+    "development": {
+      "username": "root",
+      "password": "password",
+      "database": "inventory_db",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    },
+    "test": {
+      "username": "root",
+      "password": "password",
+      "database": "inventory_test_db",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    },
+    "production": {
+      "username": "root",
+      "password": "password",
+      "database": "inventory_prod_db",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    }
+  }
+  
